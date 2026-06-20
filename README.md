@@ -1,4 +1,4 @@
 # basic
 First git repo
 <br>
-Name - Sushant Singh VIT Vellore
+Name - Sushant Singh , VIT Vellore
